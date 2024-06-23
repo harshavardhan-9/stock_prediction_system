@@ -1,3 +1,8 @@
+[//]: # (Hello welcome to my project 
+  This project is already uploaded to my GitHub Account where I have deployed this project
+  You can find the project here: https://github.com/Kumar-laxmi/Stock-Prediction-System-Application
+)
+
 <img src="./app/static/image/banner.png" alt="STOCK MARKET PREDICTION">
 
 ## Introduction
@@ -30,7 +35,7 @@
   - ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   - ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-- ### Deployment:
+- #### Deployment:
   - Click to see deployement: <a href="https://stock-prediction-system.herokuapp.com/">![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</a>
 - #### Machine-Learning Algorithms:
   - <a href="https://en.wikipedia.org/wiki/Linear_regression">**MULTIPLE LINEAR REGRESSION**</a>
@@ -138,7 +143,27 @@
 ## Walkthrough Video:
 
 
+https://user-images.githubusercontent.com/76027425/179440037-bf73c742-c463-434b-a5f9-97b83e4ddb35.mp4
+
+
+
 ## Output Screen-shots:
+The Home page of the application that displays real time data of stock prices.
+![image](https://user-images.githubusercontent.com/76027425/179440522-674b6e07-31dc-422f-81e3-0e0c9c74c85a.png)
+
+To Predict stock price we move on to predicition page where we need to enter valid ticker value and number of days and click predict button.
+![image](https://user-images.githubusercontent.com/76027425/179440538-a7054ec1-ce3b-44b1-b55e-72bf7e23692c.png)
+
+This page displays the predicted stock price alsong with searched ticker details and also generating unique QR Code to view the predicted result.
+![image](https://user-images.githubusercontent.com/76027425/179440583-dcb85f97-d358-42d7-a7b4-661461135efd.png)
+
+The Left Graph is the real time stock price of the searched ticker for past 1day & the Right Graph is the predicted stock price for the number of days searched.
+![image](https://user-images.githubusercontent.com/76027425/179440591-06b8b095-d2c4-4df8-93d7-fe389b748470.png)
+
+The Ticker Info page displays the details of all the valid tickers accepted by the application.
+![image](https://user-images.githubusercontent.com/76027425/179440611-3552e15a-a66e-464b-a000-cb45b864352c.png)
+
+
 
 
 ## Disclaimer
