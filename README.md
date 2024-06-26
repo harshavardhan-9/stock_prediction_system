@@ -1,7 +1,3 @@
-Sure! Here's the cleaned-up README without emojis:
-
----
-
 # Stock Market Prediction System
 
 ## Introduction  
