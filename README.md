@@ -17,7 +17,7 @@
 
 ## Objective
 <p>
-  The main objective of this project is to develop a web appplication that can predict stock price based on real-time data.  
+  The main objective of this project is to develop a web application that can predict stock price based on real-time data.  
 </p>
 
 ## Project Scope
@@ -36,7 +36,7 @@
   - ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 - #### Deployment:
-  - Click to see deployement: <a href="https://stock-prediction-system.herokuapp.com/">![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</a>
+  - Click to see deployement (NOTE: Deployement not working): <a href="https://stock-prediction-system.herokuapp.com/">![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</a>
 - #### Machine-Learning Algorithms:
   - <a href="https://en.wikipedia.org/wiki/Linear_regression">**MULTIPLE LINEAR REGRESSION**</a>
 
@@ -116,7 +116,7 @@
 
 **STEP 5:** Install the dependencies.
 ```bash
-  pip install -r requirement.txt
+  pip install -r requirements.txt
 ```
 
 **STEP 6:** Migrate the Django project.
@@ -140,12 +140,6 @@
 ```
 
 
-## Walkthrough Video:
-
-
-https://user-images.githubusercontent.com/76027425/179440037-bf73c742-c463-434b-a5f9-97b83e4ddb35.mp4
-
-
 ## Output Screen-shots:
 The Home page of the application that displays real time data of stock prices.
 ![image](https://user-images.githubusercontent.com/76027425/179440522-674b6e07-31dc-422f-81e3-0e0c9c74c85a.png)
@@ -167,5 +161,5 @@ The Ticker Info page displays the details of all the valid tickers accepted by t
 
 ## Disclaimer
 <p>
-This software is for educational purposes only. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS. Do not risk money which you are afraid to lose. There might be bugs in the code - this software DOES NOT come with ANY warranty.
+This software is for educational purposes only. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS. Do not risk money which you are afraid to lose. There might be bugs in the code - this software DOES NOT come with ANY warranty!
 </p>
